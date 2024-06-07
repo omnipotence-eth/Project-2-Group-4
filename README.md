@@ -1,7 +1,7 @@
 Project_Two_Team4 by Tremayne T. Desalegn B. and Brandon D.
 # Rise of Diabetes in the US
 
-In the recent years, the United States has seen a transformative shift in tackling heathcare issues. One issue is the rise of diabetes and the challenges that comes with living with a life changing problem. Amidst rising prevalence rates, there has emerged a resolute determination among communities in heathcare and policymakers to confront this issue with optimism and innovation. With optimism, education and innovation the United States Healthcare System has become proactive in preventing diabetes to continue to rise. In this study you will see that we decided to see why the rise of diabetes is still an ongoing issue even with the populous being more informed about diebetes.  
+In the recent years, the United States has seen a transformative shift in tackling healthcare issues. One issue is the rise of diabetes and the challenges that comes with living with a life changing problem. Amidst rising prevalence rates, there has emerged a resolute determination among communities in healthcare and policymakers to confront this issue with optimism and innovation. With optimism, education and innovation the United States Healthcare System has become proactive in preventing diabetes to continue to rise. In this study you will see that we decided to see why the rise of diabetes is still an ongoing issue even with the populous being more informed about diabetes.  
 
 After much thought, our group decided to look at the variables and determined that high cholesterol, diet, physical activity, and high blood pressure will be the most prevelent variables to focus on when building our model. Our data was used from Kaggle.com. Kaggle has data from over 250k individuels with and without diabetes.
 
@@ -10,7 +10,7 @@ After much thought, our group decided to look at the variables and determined th
 # Table of Contents
 - [Overview](#Overview)
 - [Rise of Diabetes in the United States](#Rise_of_Diabetes_in_the_United_States)
-- Visualization of the Rise in Diebetes
+- [Visualization of the Rise in Diebetes](#Visualization_of_the_Rise_in_Diebetes)
 - 
 - 
 - 
