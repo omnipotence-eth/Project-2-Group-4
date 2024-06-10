@@ -18,4 +18,4 @@ After much thought, our group decided to look at the variables and determined th
 # Overview
 With the populous being more informed about diabetes and yet there is still a rise in diebetics, why is this problem still happening? With the population consuming carbonated drinks and food that is high in sugar like baked products made with ingredients that are causing chronic inflammation and packed ready to eat meals along with fried foods being the norm in the US for most people there is a common underline on why diebetes is still rising. Even though the United States population is more informed about the issues most of the people still see fast food, sit in diners, meals that can be consumed fast as the life style that is best suited for them. The life style that most people live is fast paced and the majority feels as if they need everything at that moment and don't want to take the time or spend the extra money to shop for healthier alternative ingrediants or cook for themselves.  
 
- 
+ great
