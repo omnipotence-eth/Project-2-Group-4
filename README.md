@@ -1,21 +1,53 @@
 Project_Two_Team4 by Tremayne T. Desalegn B. and Brandon D.
-# Rise of Diabetes in the US
 
-In the recent years, the United States has seen a transformative shift in tackling healthcare issues. One issue is the rise of diabetes and the challenges that comes with living with a life changing problem. Amidst rising prevalence rates, there has emerged a resolute determination among communities in healthcare and policymakers to confront this issue with optimism and innovation. With optimism, education and innovation the United States Healthcare System has become proactive in preventing diabetes to continue to rise. In this study you will see that we decided to see why the rise of diabetes is still an ongoing issue even with the populous being more informed about diabetes.  
+# Using Logistic Regression & Decision Tree Models for Diabetes Prediction using limited features.
 
-After much thought, our group decided to look at the variables and determined that high cholesterol, diet, physical activity, and high blood pressure will be the most prevelent variables to focus on when building our model. Our data was used from Kaggle.com. Kaggle has data from over 250k individuels with and without diabetes.
+Our decision tree model was used to predict diabetes based on various health indicators. The dataset was preprocessed and the decision tree classifier was trained and evaluated. We visualized the model's performance using matplotlib.
+Our logistic regression model was used to predict the presence of diabetes in individuals based on various health indicators.
 
-![image](https://github.com/BrandonDavidson/Project_two-Team_Four/assets/159976118/3a6c8395-340b-4fa5-88ba-c7389f949bd5)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Training and Evaluation](#model-training-and-evaluation)
+- [Visualization](#visualization)
+- [Feature Importance](#feature-importance)
+- [Contributing](#contributing)
+- [License](#license)
+ 
+## Project Overview
 
-# Table of Contents
-- [Overview](#Overview)
-- [Rise of Diabetes in the United States](#Rise_of_Diabetes_in_the_United_States)
-- [Visualization of the Rise in Diebetes](#Visualization_of_the_Rise_in_Diebetes)
-- 
-- 
-- 
+The goal our project was to predict whether an individual has diabetes based on high blood pressure, general health, education, and income.
+The project uses a decision tree classifier to make predictions and evaluates its performance using various metrics.
+We used the decision tree to visualize and understand the decision-making process.
+We also built a logistic regression model to predict the presence of diabetes in individuals based on High Blood Pressure, General Health, Education, and Income using a data set comprised of CDC data.
 
-# Overview
-With the populous being more informed about diabetes and yet there is still a rise in diebetics, why is this problem still happening? With the population consuming carbonated drinks and food that is high in sugar like baked products made with ingredients that are causing chronic inflammation and packed ready to eat meals along with fried foods being the norm in the US for most people there is a common underline on why diebetes is still rising. Even though the United States population is more informed about the issues most of the people still see fast food, sit in diners, meals that can be consumed fast as the life style that is best suited for them. The life style that most people live is fast paced and the majority feels as if they need everything at that moment and don't want to take the time or spend the extra money to shop for healthier alternative ingrediants or cook for themselves.  
+## Dataset
 
- great
+"The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. Every year the survey collects responses from over 400,000 Americans on health-related risk behaviors, chronic health conditions, and the use of preventative services.
+It has been conducted every year since 1984. For this project a CSV of the dataset was available on Kaggle for the year 2015 to be used. This original dataset contains responses from 441,455 individuals and has 330 features. These questions directly ask of participants, or calculated variables based on individual participant responses."
+
+Our process that we took to clean up the data: 
+
+
+
+
+
+
+
+**Citation:**
+Teboul, Alex. "Diabetes Health Indicators Dataset." *Kaggle*, 2015, 
+
+## Installation
+
+To run the Decision Tree Model, you need to have Python installed along with several packages. You can install the required packages using pip:
+
+```bash
+pip install pandas scikit-learn matplotlib numpy
+To run the Logistic Regression Model, you need the following Python packages:
+- pandas
+- scikit-learn
+You can install the required packages using the following command:
+```bash
+pip install pandas scikit-learn
